@@ -1,4 +1,4 @@
-RUS
+Перевод от KAMIK (vk.com/p_a_w_n)
 ====================================
 Pawn-это простой, типизированный, с 32-битным расширением языка с Си-подобным синтаксисом.
 Компилятор Pawn выводит P-код (или байт-код), который впоследствии выполняется на
@@ -132,7 +132,7 @@ Linux / Unix
  набрав "сделать". Программы будут построены в подкаталоге "bin".
  
 ====================================
-ORIGINAL
+Оригинал
 ====================================
 Pawn is a simple, typeless, 32-bit extension language with a C-like syntax.
 The Pawn compiler outputs P-code (or bytecode) that subsequently runs on an
